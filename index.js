@@ -11,7 +11,7 @@ var colors = require('colors');
 
 // console.log(chalk.blue('Hello world!'));
  
-console.log('hello'.green);
+console.log('<h1>hello</h1>'.green);
 // import chalk from 'chalk';
 
 // console.log(chalk.blue('Hello world!'))
